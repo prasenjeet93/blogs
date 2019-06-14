@@ -1,0 +1,36 @@
+header {
+  display: block;
+  background-color: white;
+  width: 100%;
+  height: 50px;
+  color: white;
+}
+
+#headerButtons {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.navButton {
+  float: right;
+}
+
+#introduction {
+  margin: 0 auto;
+  width: 500px;
+  font-family: "helvetica";
+}
+
+#intropic {
+  align:center;
+  text-align: center;
+}
+
+footer {
+  display: block;
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  color: white;
+}
